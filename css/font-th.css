@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 11, 2016, 9:03:10 AM
+    Author     : Kimniyom
+*/
+
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+    font-family:Th;
+    src: url('font-th/TH K2D July8 Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:RSU-Th;
+    src: url('WDB_Bangna/WDB_Bangna.ttf') format('truetype');
+    /*
+    src: url('rsufont/RSU_BOLD.ttf') format('truetype');
+    */
+}
+
+@font-face {
+    font-family:SPMK-Th;
+    src: url('supermarket/supermarket.ttf') format('truetype');
+}
+
+#webtitle{
+    font-family:Th;
+}
+
+#head-menu{
+    font-family:Th;
+    font-size: 48px;
+}

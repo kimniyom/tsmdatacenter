@@ -1,0 +1,1 @@
+<div class="well well-lg" style="text-align: center"><h2><font color="red"><span class="fa fa-warning"></span> คุณไม่มีสิทธิ์ใช้งานในส่วนนี้!!!</font></h2></div>

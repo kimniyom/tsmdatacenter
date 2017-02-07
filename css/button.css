@@ -1,0 +1,193 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 8, 2014, 7:49:27 PM
+    Author     : Kimniyom
+*/
+
+#btn-blue{
+    color: #000;
+    text-decoration: none;
+    /*box-shadow: #999999 1px 1px;*/
+    border-radius: 0px;
+    margin: 0px;
+    /* IE10 Consumer Preview */ 
+    background-image: -ms-radial-gradient(center, circle farthest-corner, #00C6FE  0%, #0170FD  100%);
+
+    /* Mozilla Firefox */ 
+    background-image: -moz-radial-gradient(center, circle farthest-corner, #00C6FE  0%, #0170FD  100%);
+
+    /* Opera */ 
+    background-image: -o-radial-gradient(center, circle farthest-corner, #00C6FE  0%, #0170FD  100%);
+
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(radial, center center, 0, center center, 505, color-stop(0, #00C6FE ), color-stop(1, #0170FD ));
+
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-radial-gradient(center, circle farthest-corner, #00C6FE  0%, #0170FD  100%);
+
+    /* W3C Markup, IE10 Release Preview */ 
+    background-image: radial-gradient(circle farthest-corner at center, #00C6FE  0%, #0170FD  100%);
+
+}
+
+
+
+#btn-red{
+    color: #000;
+    text-decoration: none;
+     /*box-shadow: #999999 1px 1px;*/
+    border-radius: 0px;
+    margin: 0px;
+    /* IE10 Consumer Preview */ 
+    background-image: -ms-radial-gradient(center, circle farthest-side, #ee923f 0%, #fe0904 100%);
+
+    /* Mozilla Firefox */ 
+    background-image: -moz-radial-gradient(center, circle farthest-side, #ee923f 0%, #fe0904 100%);
+
+    /* Opera */ 
+    background-image: -o-radial-gradient(center, circle farthest-side, #ee923f 0%, #fe0904 100%);
+
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(radial, center center, 0, center center, 486, color-stop(0, #ee923f), color-stop(1, #fe0904));
+
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-radial-gradient(center, circle farthest-side, #ee923f 0%, #fe0904 100%);
+
+    /* W3C Markup, IE10 Release Preview */ 
+    background-image: radial-gradient(circle farthest-side at center, #ee923f 0%, #fe0904 100%);
+}
+
+#btn-green{
+    color: #000;
+    text-decoration: none;
+     /*box-shadow: #999999 1px 1px;*/
+    border-radius: 0px;
+    margin: 0px;
+    /* IE10 Consumer Preview */ 
+    background-image: -ms-radial-gradient(center, circle farthest-side, #64ed09 0%, #0eb506 100%);
+
+    /* Mozilla Firefox */ 
+    background-image: -moz-radial-gradient(center, circle farthest-side, #64ed09 0%, #0eb506 100%);
+
+    /* Opera */ 
+    background-image: -o-radial-gradient(center, circle farthest-side, #64ed09 0%, #0eb506 100%);
+
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(radial, center center, 0, center center, 486, color-stop(0, #64ed09), color-stop(1, #0eb506));
+
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-radial-gradient(center, circle farthest-side, #64ed09 0%, #0eb506 100%);
+
+    /* W3C Markup, IE10 Release Preview */ 
+    background-image: radial-gradient(circle farthest-side at center, #64ed09 0%, #0eb506 100%);
+}
+
+#btn-gray{
+    color: #000;
+    text-decoration: none;
+     /*box-shadow: #999999 1px 1px;*/
+    border-radius: 0px;
+    margin: 0px;
+    /* IE10 Consumer Preview */ 
+    background-image: -ms-radial-gradient(center, circle farthest-side, #dad8db 0%, #666666 100%);
+
+    /* Mozilla Firefox */ 
+    background-image: -moz-radial-gradient(center, circle farthest-side, #dad8db 0%, #666666 100%);
+
+    /* Opera */ 
+    background-image: -o-radial-gradient(center, circle farthest-side, #dad8db 0%, #666666 100%);
+
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(radial, center center, 0, center center, 486, color-stop(0, #dad8db), color-stop(1, #666666));
+
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-radial-gradient(center, circle farthest-side, #dad8db 0%, #666666 100%);
+
+    /* W3C Markup, IE10 Release Preview */ 
+    background-image: radial-gradient(circle farthest-side at center, #dad8db 0%, #666666 100%);
+}
+
+#btn-brown{
+    color: #000;
+    text-decoration: none;
+     /*box-shadow: #999999 1px 1px;*/
+    border-radius: 0px;
+    margin: 0px;
+    /* IE10 Consumer Preview */ 
+    background-image: -ms-radial-gradient(center, circle farthest-side, #e0c182 0%, #c48f4a 100%);
+
+    /* Mozilla Firefox */ 
+    background-image: -moz-radial-gradient(center, circle farthest-side, #e0c182 0%, #c48f4a 100%);
+
+    /* Opera */ 
+    background-image: -o-radial-gradient(center, circle farthest-side, #e0c182 0%, #c48f4a 100%);
+
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(radial, center center, 0, center center, 486, color-stop(0, #e0c182), color-stop(1, #c48f4a));
+
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-radial-gradient(center, circle farthest-side, #e0c182 0%, #c48f4a 100%);
+
+    /* W3C Markup, IE10 Release Preview */ 
+    background-image: radial-gradient(circle farthest-side at center, #e0c182 0%, #c48f4a 100%);
+}
+
+
+#btn-yellow{
+    color: #000;
+    text-decoration: none;
+     /*box-shadow: #999999 1px 1px;*/
+    border-radius: 0px;
+    margin: 0px;
+    /* IE10 Consumer Preview */ 
+    background-image: -ms-radial-gradient(center, circle farthest-side, #fff191 0%, #ebba1d 100%);
+
+    /* Mozilla Firefox */ 
+    background-image: -moz-radial-gradient(center, circle farthest-side, #fff191 0%, #ebba1d 100%);
+
+    /* Opera */ 
+    background-image: -o-radial-gradient(center, circle farthest-side, #fff191 0%, #ebba1d 100%);
+
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(radial, center center, 0, center center, 486, color-stop(0, #fff191), color-stop(1, #ebba1d));
+
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-radial-gradient(center, circle farthest-side, #fff191 0%, #ebba1d 100%);
+
+    /* W3C Markup, IE10 Release Preview */ 
+    background-image: radial-gradient(circle farthest-side at center, #fff191 0%, #ebba1d 100%);
+}
+
+#btn-blue:hover{
+    opacity: 0.6;
+    color: #000;
+}
+
+#btn-red:hover{
+    opacity: 0.6;
+    color: #000;
+}
+
+#btn-green:hover{
+    opacity: 0.6;
+    color: #000;
+}
+
+#btn-gray:hover{
+    opacity: 0.6;
+    color: #000;
+}
+
+#btn-brown:hover{
+    opacity: 0.6;
+    color: #000;
+}
+
+#btn-yellow:hover{
+    opacity: 0.6;
+    color: #000;
+}
