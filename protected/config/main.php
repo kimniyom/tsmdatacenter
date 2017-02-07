@@ -59,31 +59,13 @@ return array(
         //       'connectionString' => 'sqlite:' . dirname(__FILE__) . '/../data/testdrive.db',
         //   ),
         // uncomment the following to use a MySQL database
-        //172.17.250.7
-        /*
-          'db' => array(
-          'connectionString' => 'mysql:host=172.17.250.7;dbname=tmhdb',
-          'emulatePrepare' => true,
-          'username' => 'ssjtak',
-          'password' => '63tak00',
-          'charset' => 'utf8',
-          ),
-         */
-        /*
-          'db' => array(
-          'connectionString' => 'mysql:host=122.154.239.29;dbname=tmhdb',
-          'emulatePrepare' => true,
-          'username' => 'ssjtak',
-          'password' => '63tak00',
-          'charset' => 'utf8',
-          ),
-         * 
-         */
+   
+        
         'db' => array(
-            'connectionString' => 'mysql:host=127.0.0.1;dbname=tmhdb',
+            'connectionString' => 'mysql:host=10.10.12.59;dbname=tmhdb',
             'emulatePrepare' => true,
-            'username' => 'root',
-            'password' => '123456',
+            'username' => 'sa',
+            'password' => 'admin1037',
             'charset' => 'utf8',
         ),
         'errorHandler' => array(
